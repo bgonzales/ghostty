@@ -1,0 +1,13 @@
+# \x13 = ctrl+s in hexadecimal (https://www.eso.org/~ndelmott/ascii.html)
+keybind = cmd+s=text:\x13
+keybind = cmd+shift+o=text:,o
+keybind = cmd+'=text:gcc 
+keybind = cmd+shift+y=text:,xl
+keybind = cmd+r=text:,xr
+
+theme = dark:catppuccin-mocha,light:catppuccin-latte
+
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
