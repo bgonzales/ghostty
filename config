@@ -1,5 +1,5 @@
 # \x13 = ctrl+s in hexadecimal (https://www.eso.org/~ndelmott/ascii.html)
-keybind = cmd+s=text:\x13
+keybind = cmd+s=text:\x0E
 keybind = cmd+shift+o=text:,o
 keybind = cmd+'=text:gcc 
 keybind = cmd+shift+y=text:,xl
