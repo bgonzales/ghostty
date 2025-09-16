@@ -5,7 +5,7 @@ keybind = cmd+'=text:gcc
 keybind = cmd+shift+y=text:,xl
 keybind = cmd+r=text:,xr
 
-theme = dark:catppuccin-mocha,light:catppuccin-latte
+theme = dark:Catppuccin Mocha,light:Catppuccin Latte
 
 cursor-style = block
 cursor-style-blink = false
