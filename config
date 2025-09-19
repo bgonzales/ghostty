@@ -5,6 +5,13 @@ keybind = cmd+'=text:gcc
 keybind = cmd+shift+y=text:,xl
 keybind = cmd+r=text:,xr
 
+# keybind = performable:cmd+j=increase_font_size:1
+# keybind = performable:cmd+plus=increase_font_size:1
+
+# Fix for version 1.2.0
+keybind = cmd+bracket_right=increase_font_size:1
+keybind = cmd+equal=unbind
+
 theme = dark:Catppuccin Mocha,light:Catppuccin Latte
 
 cursor-style = block
